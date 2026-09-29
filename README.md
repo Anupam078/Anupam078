@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-livelink.cv%2Fanupamojha-2E9EF7?style=for-the-badge)](https://livelink.cv/anupamojha)
 [![Email](https://img.shields.io/badge/Email-anupamojha078%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamojha078@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-ojha-2831aa329/)
 
 </div>
 
@@ -77,12 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anupam078&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anupam's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam078&theme=tokyonight&hide_border=true" alt="Anupam's GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam078&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-
 </div>
+
+<sub>The stats-card and top-languages widgets from github-readme-stats are left out here — the shared public instance is currently rate-limited (a known, widely-reported issue, not specific to this repo) and was rendering as a broken image. The streak card above uses a different, more reliable host. If you want the full stats/top-languages cards back, deploy your own free instance in a few clicks via <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance">these instructions</a> — then swap the URL in and I can re-add them.</sub>
 
 ---
 
