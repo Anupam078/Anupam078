@@ -81,8 +81,6 @@
 
 </div>
 
-<sub>The stats-card and top-languages widgets from github-readme-stats are left out here — the shared public instance is currently rate-limited (a known, widely-reported issue, not specific to this repo) and was rendering as a broken image. The streak card above uses a different, more reliable host. If you want the full stats/top-languages cards back, deploy your own free instance in a few clicks via <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance">these instructions</a> — then swap the URL in and I can re-add them.</sub>
-
 ---
 
 ### 📌 What I'm Focused on Next
