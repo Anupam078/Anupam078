@@ -22,8 +22,6 @@
 - ⚖️ Shipped a multi-tenant SaaS platform for Indian district courts (JWT security, FSM-driven workflows, RBAC)
 - 🩺 Shipped an agentic AI healthcare assistant running on local LLMs
 - 🧩 Currently building an **LLM Inference Gateway** and an **AI-driven legal-aid platform**
-- 🏆 Representing team *Git Gooners* at **Smart India Hackathon 2026** (SIH1681 — cryptographic algorithm identification using AI/ML)
-- 🎯 Goal: become an **AI Software Developer** by placement year
 
 ---
 
