@@ -45,6 +45,7 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=flat-square)
 
+
 **Infra & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -66,7 +67,7 @@
 |---|---|---|
 | **[Lexora](https://github.com/Anupam078/lexora-backend)** | Multi-tenant case management SaaS for Indian district courts — ThreadLocal tenant isolation, stateless JWT auth, RBAC, FSM-driven case lifecycle, Quartz-scheduled reminders, hand-built token bucket rate limiter | Java 21 · Spring Boot 3 · PostgreSQL · JWT |
 | **[Lexora AI — Nyaya Kavach](https://github.com/Anupam078/Nyaya-Kavach)** | Two-phase AI legal-aid platform: pre-signature document risk analysis + agentic paralegal intake, built as a modular monolith on a shared OCR/RAG/voice core with a 6-member team | Java · Spring Boot · Legal RAG · OCR · Voice STT/TTS |
-| **[LLM Inference Gateway](https://github.com/Anupam078/Vertica-Inference)** | Production-grade middleware routing prompts across local LLMs by complexity, serving semantically similar requests from a vector cache, with an automated judge-model evaluation pipeline | Java · Spring Boot · Ollama · FAISS · Redis · Resilience4j |
+| **[LLM Inference Gateway](https://github.com/Anupam078/Vertica-Inference)** | Production-grade middleware routing prompts across local LLMs by complexity, serving semantically similar requests from a vector cache, with an automated judge-model evaluation pipeline | Java · Spring Boot · Ollama · FAISS · Redis · Resilience4j •Harnress Engineering|
 | **[Medibrief](https://github.com/Anupam078/MediBrief)** | Agentic AI healthcare assistant integrating local Ollama LLMs — summarizes patient records 40% faster, 95% accuracy across 10,000+ simulated clinical entries | Java · Spring Boot · Ollama · Python |
 
 ---
